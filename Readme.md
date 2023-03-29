@@ -64,4 +64,6 @@ Basta clicar com botão direito em seu servidor, que vai aparecer uma nova opç�
 ![image](https://user-images.githubusercontent.com/69323238/228557824-9d3590c9-85d4-4a1b-85be-de2a8f1680c2.png)
 
 *Pronto, voce resgatou sua insignia com sucesso, lembrando tem que usar 1x por mes esse bot para manter a insignia.*
+![image](https://user-images.githubusercontent.com/69323238/228563459-f5db8e64-9a81-4d51-b006-0e7f57912aa1.png)
+
 
