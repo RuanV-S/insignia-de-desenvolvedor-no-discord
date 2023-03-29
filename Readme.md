@@ -1,4 +1,5 @@
-# Insígnia de desenvolvedor ativo do Discord
+# Insígnia de desenvolvedor ativo do Discord ![image](https://user-images.githubusercontent.com/69323238/228565101-ba694e6b-fcfd-41ca-8956-227046aaca5c.png)
+
 
 **Olá irei explicar o passo-a-passo de como você conseguir de modo fácil e gratuito a insignia de desenvolvedor ativo do discord.**
 
