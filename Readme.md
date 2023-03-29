@@ -53,3 +53,15 @@ Basta clicar com botão direito em seu servidor, que vai aparecer uma nova opç�
 *Apos, configurado, abra o arquivo install que ira instalar todos os arquivos necessário do bot, posteriormente abra o arquivo start, que vai ser ligado o bot
 
 *Use o comando /ping, que ele vai retorna o ping do seu bot naquele momento e pronto, em até 24 horas no painel de desenvolvedor, vai mostrar um painel para resgatar sua insignia.*
+
+## ``Pegando sua insígnia``
+
+*Apos 24hrs, vai ao seu painel de desenvolvedor que irá aparecer uma mensagem para resgatar.*
+
+![image](https://user-images.githubusercontent.com/69323238/228555476-d636e5c1-cdde-4f43-b9a8-7560fc98a9ee.png)
+
+*Nessa parte, selecione o bot seu bot e um servidor para ser o meio de suporte dele.*
+![image](https://user-images.githubusercontent.com/69323238/228557824-9d3590c9-85d4-4a1b-85be-de2a8f1680c2.png)
+
+*Pronto, voce resgatou sua insignia com sucesso, lembrando tem que usar 1x por mes esse bot para manter a insignia.*
+
