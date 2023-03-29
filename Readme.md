@@ -6,7 +6,7 @@
 ### `Criando o seu bot`
 *Você vai precisar fazer login na pagina de desenvolvedor do discord com sua conta,* [clicando aqui](https://discord.com/developers/applications) ira ser direcionado a ela
 
-*Apos fazer login, vai aparecer no canto superior direito, um botão azul com nome de* **New Application, igual à imagem abaixo**imagem abaixo**
+*Apos fazer login, vai aparecer no canto superior direito, um botão azul com nome de* **New Application**, *igual à imagem abaixo*
 
 ![image](https://user-images.githubusercontent.com/69323238/228051027-b2f0be87-a42b-4ee4-9bbb-709b2f8e94cc.png)
 
