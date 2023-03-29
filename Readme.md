@@ -38,6 +38,14 @@
 
 https://discord.com/api/oauth2/authorize?client_id=IDDOSEUBOT&permissions=8&scope=bot%20applications.commands
 
+## ``Baixando node.js``
+
+*[clicando aqui](https://nodejs.org/en) vai ser direcionado ao site oficial do node.js na onde baixe e instale na versão recomendada, para que o restante do tutorial funcione corretamente.*
+
+
+![image](https://user-images.githubusercontent.com/69323238/228613817-896523a3-3386-490d-8c88-d980127a39d8.png)
+
+
 ## ``Configurando o BOT``
 
 *Vai ser necessário que baixe o **NotePad ++** para fazer edição dos arquivos.*
