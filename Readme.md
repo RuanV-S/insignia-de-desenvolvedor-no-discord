@@ -4,13 +4,13 @@
 **Olá irei explicar o passo-a-passo de como você conseguir de modo fácil e gratuito a insignia de desenvolvedor ativo do discord.**
 
 ### `Criando o seu bot`
-*Você vai precisar fazer login na pagina de desenvolvedor do discord com sua conta,* [clicando aqui](https://discord.com/developers/applications) ira ser direcionado a ela
+*Você vai precisar fazer login na página de desenvolvedor do discord com sua conta,* [clicando aqui](https://discord.com/developers/applications) ira ser direcionado a ela.
 
-*Apos fazer login, vai aparecer no canto superior direito, um botão azul com nome de* **New Application**, *igual à imagem abaixo*
+*Após fazer login, vai aparecer no canto superior direito, um botão azul com nome de* **New Application**, *igual à imagem abaixo*
 
 ![image](https://user-images.githubusercontent.com/69323238/228051027-b2f0be87-a42b-4ee4-9bbb-709b2f8e94cc.png)
 
-*Crie o bot com o nome que desejar, com isso vai mostrar uma nova pagina, com todas as informação do seu bot.*
+*Crie o bot com o nome que desejar, com isso vai mostrar uma nova pagina, com todas as informações do seu bot.*
 
 *Copie e guarde o id da aplicação, que será usado futuramente.*
 
